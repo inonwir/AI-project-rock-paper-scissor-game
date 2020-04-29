@@ -8,11 +8,11 @@ We got our main influence from the game rock,paper,scissors.We thought of creati
 The main technique used to design this project is convolutional neural network.Convolutional Neural Network is a class of profound neural system that is utilized for Computer Vision or examining visual symbolism.The Convolutional Layer makes utilization of an arrangement of learnable channels.A channel is utilized to identify the nearness of particular highlights or examples in the original picture.
 
 # System Design
-The process of building a convolutional neural network consist of the following four step: <br/>
+The process of building a convolutional neural network consist of the following four step:<br/>
    1. Convolution
    2. Pooling
    3. Weights
-   4. Full connection
+   4. Full connection <br/>
           - Convolutional layers apply a convolution activity to the information, passing the outcome to the next layer. <br/>
           - Convolutional systems may incorporate nearby or worldwide pooling layers, which join the yields of neuron groups at one layer into a solitary neuron in the prior layer.<br/>
           - Fully connected layers connect every neuron in one layer to every neuron in another layer. It is in principle the same as the traditional multi-layer perceptron neural   network.<br/>
